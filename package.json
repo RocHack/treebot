@@ -1,0 +1,14 @@
+{
+  "name": "rocbot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies":{
+	"irc":"~0.3.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J. Hassler Thurston",
+  "license": "BSD"
+}
